@@ -1,0 +1,14 @@
+.movie-form form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.movie-form label {
+    width: 40%;
+    margin-bottom: 20px;
+}
+
+.movie-form input {
+    width: 100%;
+}
